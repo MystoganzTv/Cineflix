@@ -13,7 +13,7 @@ export const Footer = () => {
       <ul className="flex flex-wrap items-center mt-3 text-sm text-gray-500 dark:text-gray-400 sm:mt-0">
         <li>
           <a
-            href="https://www.instagram.com/shubham.ul/"
+            href="https://www.instagram.com/epadron85/"
             target="_blank"
             rel="noreferrer"
             className="mr-4 hover:underline md:mr-6 "
@@ -23,7 +23,7 @@ export const Footer = () => {
         </li>
         <li>
           <a
-            href="https://www.linkedin.com/in/shubhamsarda/"
+            href="https://www.linkedin.com/in/enrique-padron-sp%C3%A5ngberg-267083120/"
             target="_blank"
             rel="noreferrer"
             className="mr-4 hover:underline md:mr-6"
@@ -33,7 +33,7 @@ export const Footer = () => {
         </li>
         <li>
           <a
-            href="https://twitter.com/shubham_ul"
+            href="https://twitter.com/epadron24"
             target="_blank"
             rel="noreferrer"
             className="mr-4 hover:underline md:mr-6"
@@ -43,7 +43,7 @@ export const Footer = () => {
         </li>
         <li>
           <a
-            href="https://www.youtube.com/channel/UCuH_UB-L_PaVQSBoOqp0cqw"
+            href="https://www.youtube.com/channel/UCkyFA6Z9fSvY0byJNe61B8g"
             target="_blank"
             rel="noreferrer"
             className="mr-4 hover:underline md:mr-6"
@@ -53,7 +53,7 @@ export const Footer = () => {
         </li>
         <li>
           <a
-            href="https://github.com/ShubhamSarda"
+            href="https://github.com/MystoganzTv"
             target="_blank"
             rel="noreferrer"
             className="hover:underline"
