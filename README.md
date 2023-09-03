@@ -1,4 +1,5 @@
-
+# Deployment on Netlify 
+Open link to test  [https://cinemate2.netlify.app]
 ## Available Scripts
 
 In the project directory, you can run:
