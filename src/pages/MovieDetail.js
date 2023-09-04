@@ -8,7 +8,7 @@ import Backup from "../assets/images/backup.png";
 export const MovieDetail = (title) => {
   const params = useParams();
   const [movie, setMovie] = useState({});
-  useTitle(title);
+  useTitle(movie.title);
 
   const image = movie.poster_path
     ? `https://image.tmdb.org/t/p/w500/${movie.poster_path}`
