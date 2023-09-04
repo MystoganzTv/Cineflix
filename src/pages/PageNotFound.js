@@ -7,7 +7,7 @@ export const PageNotFound = () => {
 
 
   useEffect(() => {
-    document.title = `Page Not Found / Cinemate`;
+    document.title = `Page Not Found / Cineflix`;
   });
 
   return (

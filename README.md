@@ -1,5 +1,7 @@
-# Deployment on Netlify 
-Open link to test  [https://cinemate2.netlify.app]
+# Deployment on Netlify
+
+Open link to test [https://Cineflix.netlify.app]
+
 ## Available Scripts
 
 In the project directory, you can run:
